@@ -1,0 +1,6 @@
+ROADMAP GAME DEVELOPER
+
+- install unity
+- find resources for learning
+- learn basic unity
+- 
