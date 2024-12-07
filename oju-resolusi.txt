@@ -6,3 +6,5 @@ OJU RESOLUSI
 - UAS Projek gamdev
 - learn 3d with blender
 - make 3d project (intermediate)
+- Trying godot
+- Finish the godot project
