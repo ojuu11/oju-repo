@@ -4,3 +4,5 @@ OJU RESOLUSI
 - Membuat GDG
 - Merealisasikan Projek
 - UAS Projek gamdev
+- learn 3d with blender
+- make 3d project (intermediate)
